@@ -1,4 +1,4 @@
-# Omnifood
+# [Omnifood](https://omnifood-hc.netlify.app/)
 ## Omnifood is a mock front-end project built using modern and responsive web design techniques.
 
 ## 1. Goal of the project
